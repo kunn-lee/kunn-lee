@@ -1,4 +1,4 @@
-# Kun Lee (이기웅)
+# Kunn Lee (이기웅)
 ### FrontEnd Developer
 
 - 🏫 Konkuk Univ. Computer Science and Engineering

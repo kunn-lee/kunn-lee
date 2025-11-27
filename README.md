@@ -2,8 +2,6 @@
 ### FrontEnd Developer
 
 - 🏫 Konkuk Univ. Computer Science and Engineering
-- 😄 FE Freelancer - (2020.11 ~ )
-
 
 ## Tech Stack
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
